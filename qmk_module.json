@@ -1,0 +1,17 @@
+{
+    "module_name": "Carousel",
+    "maintainer": "https://github.com/brotheramai",
+    "features": {
+        "unicode": true
+    },
+    "keycodes": [
+        {
+            "key": "CAROUSEL_LEFT",
+            "aliases": ["CSL_L"]
+        },
+        {
+            "key": "CAROUSEL_RIGHT",
+            "aliases": ["CSL_R"]
+        }
+    ]
+}
